@@ -6,3 +6,4 @@ his bug, but couldn't figure it out.
 
 Write an ending to the story!
 He never found the bug.
+He continued to program
